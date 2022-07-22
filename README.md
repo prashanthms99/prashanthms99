@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prashanthms99
 - 👀 I’m interested in ecomerce. Certified SAP CX expert.
-- 🌱 I’m currently learning Spring Boot & Micro services.
-- 💞️ I’m looking to collaborate on ecommerce Projects.
+- 🌱 Spring Boot & Micro services.
+- 💞️ I’m looking to collaborate on Microservices driven Projects.
 - 📫 Reach me:prashanth.agni@gmail.com
 
 <!---
